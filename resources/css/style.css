@@ -1,2 +1,18 @@
-html {font-style: Helvetica; text-align: center;}
-.main {color: white; font-size: 70px; font-weight: bold;}
+html {font-family: Helvetica; text-align: center;}
+h1 {color: white; font-size: 70px; font-weight: bold;}
+.main-banner {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-size: 100% 100%;}
+  a { color:white; font-size:18px; }
+  h2{
+font-size: 32px; font-weight: bold;}
+h3 {font-size: 23px; font-weight: bold;}
+h4 {font-size: 14px}
+.design{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-size: 100% 200%; color: white;
+}
+.footer {
+  font-size:11px; color: white; background-color: dimgray;
+  text-align: left;
+}
